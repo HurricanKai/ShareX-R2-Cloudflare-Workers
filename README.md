@@ -1,3 +1,5 @@
+# ** THIS IS A FORK. SEE ORIGINAL FOR YOUR OWN INSTRUCTIONS **
+
 # ShareX-R2-Cloudflare-Workers
 
 This repo pairs with the blog post found at https://jross.me/cloudflare-r2-sharex-custom-uploader. It assumes some precursory knowledge about Workers, Cloudflare, and ShareX. If you have any questions, please feel free to create a discussion/issue, or submit a PR with any docs improvements! I want to extend this repo in the future and when R2 is more widely available, and document the process from start to finish.
